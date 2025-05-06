@@ -4,7 +4,7 @@ This repository contains material that relates to the technical teaching exercis
 
 Ultimately, the goal of this exercise is to confront students with the fact that there is no one "best" model for search, and subjective human judgements are implicated, even in the case of sophisticated unsupervised NLP approaches.
 
-You can download the material in this repo by clicking on the green "Code" button and selecting "Download Zip". If you visit [Google Colab](https://colab.google/), you can upload and open the `.ipynb` notebook. The notebook itself contains a cell that allows you to upload the spreadsheet of loading passages directly from your computer. In Colab, you hold `shift` and `return` together to run any one specific cell.
+You can download the material in this repo by clicking on the green "Code" button and selecting "Download Zip". If you visit [Google Colab](https://colab.google/), you can upload and open the `.ipynb` notebook. The notebook itself contains a cell that allows you to upload the spreadsheet of loading passages directly from your computer. In Colab, you hold `shift` and `return` together to run any one specific cell. For those who may want to review this exercise notebook without using Google Colab, I have included a PDF version which you can view and download.
 
 Again, I welcome you to visit my [search engine](https://conceptsearch.fas.harvard.edu/).
 My course for Harvard Online is [The Digital Humanities in Practice](https://pll.harvard.edu/course/digital-humanities-practice-research-questions-results).
